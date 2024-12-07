@@ -1,5 +1,5 @@
 package golib
 
-func func1() string {
+func Func1() string {
 	return "func1v1"
 }
